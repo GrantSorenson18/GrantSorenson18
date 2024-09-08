@@ -1,4 +1,6 @@
-## Hi there 👋
+## Grant Sorenson's Portfolio
+
+#Hello! This is a collection of projects i have completed and enhanced while attending SNHU
 
 <!--
 **GrantSorenson18/GrantSorenson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
